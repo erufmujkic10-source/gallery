@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">gallery</string>
+    <string name="image_content_description">Slika grada u galeriji</string>
 </resources>
